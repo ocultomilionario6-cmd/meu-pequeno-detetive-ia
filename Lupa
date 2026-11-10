@@ -1,0 +1,6 @@
+def olhar_e_pensar():
+    print("🔍 Detetive Ativado pelo Celular!")
+    print("🧠 [IA Pensando]: Analisando o código do brinquedo...")
+    print("Resultado: Este programa serve para abrir uma portinha secreta!")
+
+olhar_e_pensar()
